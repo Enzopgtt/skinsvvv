@@ -1,0 +1,15 @@
+{
+  "name": "valorant-skins-showcase",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite --host 0.0.0.0 --port 3000"
+  },
+  "devDependencies": {
+    "vite": "5.4.10"
+  }
+}
